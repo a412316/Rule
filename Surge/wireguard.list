@@ -1,5 +1,4 @@
 # > Home
-synology.xiao2026.com
-s3.xiao2026.com
-.s3.xiao2026.com
-op.xiao2026.com
+DOMAIN-SUFFIX,synology.xiao2026.com
+DOMAIN-SUFFIX,s3.xiao2026.com
+DOMAIN-SUFFIX,openwrt.xiao2026.com
