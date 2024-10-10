@@ -1,0 +1,5 @@
+payload:
+  # > Emby
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN-SUFFIX,jmsuper.com
