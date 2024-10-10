@@ -1,0 +1,26 @@
+payload:
+  # > 自有域名
+  - DOMAIN-SUFFIX,xiao2026.com
+  - DOMAIN-SUFFIX,crazy1226.xyz
+
+  # > 其他直连
+  - DOMAIN-SUFFIX,appstorrent.ru
+  - DOMAIN-SUFFIX,kaspersky.com
+  - DOMAIN-SUFFIX,nas2x.com
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,ipip.net
+  - DOMAIN-SUFFIX,nexconvert.com
+  - DOMAIN-SUFFIX,nxtlnodes.com
+  - DOMAIN-SUFFIX,ehffou.xyz
+  - DOMAIN-SUFFIX,ssr.sh
+  - DOMAIN,api.ipify.org
+  - DOMAIN,ip.3322.net
+  - DOMAIN,speed.neu6.edu.cn
+  - DOMAIN,ddns.oray.com
+  - DOMAIN,httpbin.org
+  - DOMAIN,txt.go.sohu.com
+  - DOMAIN,ip.42.pl
+  - DOMAIN,www.whatismyip.com
+
+  # > Plex
+  - DOMAIN,v4.plex.tv
